@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shapes>
+<circle id='0' radius='6' color='yellow'/>
+<square id='100' side='3' color='yellow'/>
+<square id='101' side='5' color='red'/>
+<rectangle id='200' length='7' width='8' color='yellow'/>
+<triangle id='300' side1='8' side2='4' side3='4' color='green'/>
+<square id='102' side='5' color='yellow'/>
+<triangle id='301' side1='1' side2='5' side3='1' color='red'/>
+<circle id='1' radius='8' color='black'/>
+<square id='103' side='3' color='yellow'/>
+<circle id='2' radius='9' color='green'/>
+<circle id='3' radius='2' color='yellow'/>
+<triangle id='302' side1='5' side2='1' side3='3' color='black'/>
+<square id='104' side='6' color='red'/>
+<triangle id='303' side1='1' side2='3' side3='2' color='blue'/>
+<triangle id='304' side1='5' side2='5' side3='1' color='black'/>
+<rectangle id='201' length='7' width='7' color='yellow'/>
+<square id='105' side='1' color='green'/>
+<triangle id='305' side1='1' side2='7' side3='4' color='red'/>
+<circle id='4' radius='9' color='green'/>
+<circle id='5' radius='1' color='red'/>
+<circle id='6' radius='3' color='red'/>
+<triangle id='306' side1='2' side2='6' side3='6' color='red'/>
+<circle id='7' radius='1' color='yellow'/>
+<circle id='8' radius='9' color='green'/>
+<rectangle id='202' length='8' width='2' color='green'/>
+<triangle id='307' side1='1' side2='1' side3='7' color='yellow'/>
+<triangle id='308' side1='8' side2='6' side3='2' color='black'/>
+<circle id='9' radius='9' color='blue'/>
+<rectangle id='203' length='1' width='4' color='yellow'/>
+<square id='106' side='2' color='black'/>
+<square id='107' side='7' color='green'/>
+<circle id='10' radius='1' color='red'/>
+<circle id='11' radius='3' color='green'/>
+<triangle id='309' side1='5' side2='9' side3='9' color='red'/>
+<square id='108' side='1' color='black'/>
+<circle id='12' radius='5' color='green'/>
+<triangle id='310' side1='4' side2='8' side3='6' color='black'/>
+<circle id='13' radius='2' color='blue'/>
+<circle id='14' radius='3' color='red'/>
+<triangle id='311' side1='4' side2='7' side3='9' color='green'/>
+<circle id='15' radius='2' color='red'/>
+<circle id='16' radius='3' color='yellow'/>
+<square id='109' side='6' color='black'/>
+<triangle id='312' side1='4' side2='1' side3='8' color='green'/>
+<triangle id='313' side1='8' side2='2' side3='3' color='red'/>
+<rectangle id='204' length='5' width='1' color='blue'/>
+<triangle id='314' side1='9' side2='2' side3='4' color='green'/>
+<rectangle id='205' length='7' width='6' color='yellow'/>
+<circle id='17' radius='8' color='green'/>
+<triangle id='315' side1='8' side2='9' side3='9' color='green'/>
+<circle id='18' radius='7' color='red'/>
+<triangle id='316' side1='4' side2='3' side3='5' color='green'/>
+<triangle id='317' side1='2' side2='8' side3='2' color='green'/>
+<circle id='19' radius='1' color='black'/>
+<circle id='20' radius='6' color='green'/>
+<triangle id='318' side1='5' side2='8' side3='8' color='black'/>
+<triangle id='319' side1='2' side2='1' side3='8' color='green'/>
+<triangle id='320' side1='7' side2='2' side3='7' color='red'/>
+<triangle id='321' side1='3' side2='2' side3='2' color='blue'/>
+<rectangle id='206' length='7' width='8' color='yellow'/>
+<triangle id='322' side1='3' side2='1' side3='3' color='black'/>
+<triangle id='323' side1='6' side2='5' side3='3' color='black'/>
+<rectangle id='207' length='2' width='7' color='black'/>
+<rectangle id='208' length='7' width='7' color='black'/>
+<rectangle id='209' length='8' width='8' color='black'/>
+<triangle id='324' side1='8' side2='2' side3='1' color='red'/>
+<circle id='21' radius='4' color='green'/>
+<rectangle id='210' length='9' width='1' color='blue'/>
+<circle id='22' radius='2' color='black'/>
+<circle id='23' radius='6' color='green'/>
+<rectangle id='211' length='8' width='6' color='red'/>
+<circle id='24' radius='3' color='blue'/>
+<circle id='25' radius='9' color='yellow'/>
+<circle id='26' radius='3' color='black'/>
+<circle id='27' radius='8' color='green'/>
+<rectangle id='212' length='7' width='5' color='yellow'/>
+<circle id='28' radius='6' color='black'/>
+<circle id='29' radius='8' color='green'/>
+<circle id='30' radius='4' color='black'/>
+<rectangle id='213' length='1' width='4' color='blue'/>
+<circle id='31' radius='6' color='yellow'/>
+<circle id='32' radius='4' color='red'/>
+<rectangle id='214' length='1' width='1' color='blue'/>
+<rectangle id='215' length='6' width='6' color='black'/>
+<circle id='33' radius='8' color='green'/>
+<circle id='34' radius='3' color='green'/>
+<circle id='35' radius='2' color='yellow'/>
+<rectangle id='216' length='1' width='8' color='black'/>
+<circle id='36' radius='5' color='blue'/>
+<circle id='37' radius='1' color='blue'/>
+<circle id='38' radius='7' color='blue'/>
+<circle id='39' radius='4' color='red'/>
+<circle id='40' radius='8' color='green'/>
+<circle id='41' radius='5' color='green'/>
+<circle id='42' radius='3' color='black'/>
+<circle id='43' radius='7' color='yellow'/>
+</shapes>
