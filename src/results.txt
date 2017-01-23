@@ -1,0 +1,5 @@
+Read from the file correctly 15/20 -- you have four different readers, but only one should be there to read all kinds of shapes
+Implement class hierarchy correctly 10/20 -- Shape is an interface, not a class.
+Populate appropriate data structures with shape data 10/20 -- you're not creating new shape classes with your readers
+Show list of shapes correctly 10/20 -- idea is there for specific shapes, but not generally
+Show specific shape properties correctly 10/20 -- as above
